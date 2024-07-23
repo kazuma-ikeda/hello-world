@@ -1,5 +1,3 @@
-.github > workflows > ! flake8.yml
-
 name: flake8
 
 on:
